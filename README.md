@@ -1,6 +1,6 @@
--Nama  :Christian Enggar Praswoko
--Kelas :TI.19.A.3
--NIM :311910517
+Nama  :Christian Enggar Praswoko
+Kelas :TI.19.A.3
+NIM :311910517
 
 ![image](https://user-images.githubusercontent.com/81626901/113732569-e5346d80-9723-11eb-831e-3c9432b3403c.png)
 
